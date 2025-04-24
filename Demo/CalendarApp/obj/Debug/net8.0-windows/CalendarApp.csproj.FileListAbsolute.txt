@@ -1,0 +1,17 @@
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net8.0-windows\CalendarApp.exe
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net8.0-windows\CalendarApp.deps.json
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net8.0-windows\CalendarApp.runtimeconfig.json
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net8.0-windows\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net8.0-windows\CalendarApp.pdb
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.AppointmentDialog.resources
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.Form1.resources
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.csproj.GenerateResource.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.AssemblyInfoInputs.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.AssemblyInfo.cs
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.csproj.CoreCompileInputs.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\refint\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.pdb
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\CalendarApp.genruntimeconfig.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net8.0-windows\ref\CalendarApp.dll

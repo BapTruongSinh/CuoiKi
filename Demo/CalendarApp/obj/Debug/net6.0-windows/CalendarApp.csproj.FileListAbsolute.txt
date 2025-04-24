@@ -1,0 +1,14 @@
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net6.0-windows\CalendarApp.exe
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net6.0-windows\CalendarApp.deps.json
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net6.0-windows\CalendarApp.runtimeconfig.json
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net6.0-windows\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\bin\Debug\net6.0-windows\CalendarApp.pdb
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.AssemblyInfoInputs.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.AssemblyInfo.cs
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.csproj.CoreCompileInputs.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\refint\CalendarApp.dll
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.pdb
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\CalendarApp.genruntimeconfig.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net6.0-windows\ref\CalendarApp.dll

@@ -1,0 +1,4 @@
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net9.0-windows\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net9.0-windows\CalendarApp.AssemblyInfoInputs.cache
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net9.0-windows\CalendarApp.AssemblyInfo.cs
+D:\Code\OOAD\Demo\CalendarApp\obj\Debug\net9.0-windows\CalendarApp.csproj.CoreCompileInputs.cache
